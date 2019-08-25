@@ -3,6 +3,7 @@ import React from 'react'
 class Weather extends React.Component{
 
   render() {
+    console.log(this.props)
     return(
       <div>
          {this.props.city && this.props.country && <p> Location: {this.props.city}, {this.props.country} </p>}
@@ -12,7 +13,9 @@ class Weather extends React.Component{
          {this.props.error && <p>{this.props.error}</p>}
       </div>
     )
+
   }
+
 }
 
 export default Weather
