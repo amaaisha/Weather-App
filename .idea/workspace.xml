@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3209ec2-e6d9-4c65-807c-3cb9e29fcbcf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/img/weather.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/Title.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/Title.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/component/Weather.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/Weather.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +47,11 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="yarn" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\WebstormProjects\weather-app\src\img" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -95,7 +105,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1566657971552</updated>
-      <workItem from="1566657973033" duration="15892000" />
+      <workItem from="1566657973033" duration="17238000" />
+      <workItem from="1566812316189" duration="7120000" />
     </task>
     <task id="LOCAL-00001" summary="provides weather details of different locations">
       <created>1566659890676</created>
@@ -111,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566733522235</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="provides weather details of different locations">
+      <created>1566743453733</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1566743453733</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,7 +140,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
